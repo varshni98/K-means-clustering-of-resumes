@@ -1,0 +1,187 @@
+Asha Arumugam
+
+ashaar umugam97@gmail.com
+
++91 – 8428642117
+
+Computer Science Engineer
+RPA Developer, 2 .5 years
+
+Chennai, India
+
+About Me
+I am reliable, hard - working with strong attention to detail and eager to
+lear n about new technologies and business issues. Excellent reputat ion
+f or resolving problems, improving customer sat isf action, and dr iving
+overall operat ional improvements.
+Consiste ntly saved costs while incr easing prof its with creativit y and
+innovat ions. I am able to work well both on m y own init iat ive and as part
+of a team. Mot ivated to lear n, grow and excel so that I am able to f ulf il the
+organizat ion's goals, which intact help m y car eer growth
+
+Who am I?
+
+Graduated B.E, CSE
+201 8
+
+Sri
+Sairam
+Insititute
+Technology
+Percent age - 84%
+
+of
+
+RPA Developer*
+201 8
+
+Tata
+Consultancy
+Ser vices
+Domain
+–
+Insurance
+&
+Healthcar e
+W orking on var ious intelligent
+automation process with web
+and
+desktop
+apps,
+tech
+platf orms and legacy systems
+
+Certifications
+
+
+Uipath RPA Developer Advan ce Certified
+
+
+
+Uipath Orchestrator Certified
+
+
+
+Abbyy Certified
+
+What I used?
+
+
+RPA UiPath *, Re-Framework
+
+
+
+Microsoft .Net - C#, MVC
+
+
+
+RPA Uipath Orchestrator*
+
+
+
+SQL Ser ver
+
+
+
+Visual studio
+
+
+
+API & JSON
+
+
+
+Mongo DB
+
+
+
+Abbyy
+
+My Crafts
+
+Policy CRUD Operation
+
+Unattended
+Bot
+that
+does
+crud
+operat ions on customer main f rame
+application. It sends reports to the
+intended recipient f or their ver if ication .
+Environment – Ms Excel and main f rame
+Development - RPA UiPath, Outlook,
+Agile
+
+Update policy details
+in macro enabled
+excel
+
+Un-attended Bot t o retrieve the policy
+details f rom main f rame application and
+update it in macro enable excel
+(technical calculator ) and sends report
+to the customer.
+Environment - mainframe app, Outlook,
+Ms Excel
+Development - RPA UiPath, Agile
+
+Indexing Emails
+
+Un-attended Bot to index the emails in
+the
+customer
+applicat ion
+to
+the
+respect ive mail boxes depending on the
+type of the claim.
+Environment – W eb application
+Development - RPA UiPath, Agile
+
+Custom act ivit y packa ge f or Mongodb
+to perf orm CRUD operations
+Environment – MongoDB API
+
+MongoDB Activity
+
+Development - .Net, Activit y f ramework
+
+Unattended
+bot
+that
+generates
+a
+consolidated report and f orwar ds to the
+intended recipient .
+
+Service bot –
+Generates
+consolidated report
+
+Environment – Ms Excel and Macros
+Development - RPA UiPath, Outlook
+
+*Only primary projects are listed
+
+Competence
+
+Pro ble m
+So l vi ng
+
+Co nti n u ou s
+Le a r n in g
+
+Te a mwo r k &
+Col la b ora t io n
+
+In n ov a ti o n &
+Cre a t iv it y
+
+I hereby declare that the above cited inf ormation is true to t he best of my
+knowledge and belief , if given a chance, I can prove m yself .
+
+Handcrafte
+d
+
+

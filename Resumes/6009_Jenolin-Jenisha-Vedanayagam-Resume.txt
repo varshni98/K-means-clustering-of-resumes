@@ -1,0 +1,160 @@
+Jenolin Jenisha Vedanayagam
+Software Engineer at Tech Mahindra
+Phone: 91 –6380814300
+E-Mail:jeno.jenisha@gmail.com
+LinkedIn: https://www.linkedin.com/in/jenolin-jenisha-v-378780126
+
+Career Objective
+Seeking a position to utilize my RPA skills and abilities that will offer professional growth while
+being innovative and flexible.
+Summary
+• IT Professional with 2 years and 8 Month of experience in Software Development &
+
+Support– RPA (UiPath, UNO) at Tech Mahindra Limited .
+• 2 years and 3 Months of Hands-on in UiPath tools and 5 months of experience in
+Microsoft Tools (Power Bi, Power Automate, Power Virtual Agent).
+• Expertise in analysing, designing, developing, testing, implementing, and supporting
+windows client-based/Web-based applications.
+• Good Knowledge in Orchestrator, .Net, SQL, MS Power Automate, MS Power BI
+• Integrated RPA workflows with different technologies such as SharePoint, SQL servers,
+OneDrive, Citrix environments, VBA, etc
+• Trained in JAVA and having experience with the real-time project.
+• Worked under agile methodology, with complete test-driven development following the
+
+Software development Life cycle.
+• Have good process improvement identification skills.
+• Easily adapt to changing requirements and priorities.
+• Ability to learn new concepts with good interpersonal skills
+Technical/Functional Competencies
+• Robotic Process Automation: UI Path
+• Microsoft’s tool: Power Automate , Power Virtual Agent and Power Bi
+• Programming language: C#
+• Database: SQL, Oracle, SharePoint, API
+EDUCATIONAL QUALIFICTAION
+Bachelor of Engineering- KCG College of Technology - 2017 with 84.96%
+Certifications
+• RPA-UiPath: Level 1- Developer Foundation Training
+• RPA-UiPath: Level 2- Orchestrator training
+• RPA-UiPath: Advanced Developer Certification
+• RPA-UiPath: AI Fabric Overview
+• RPA-UiPath: SAP Automation Training
+• Microsoft Power Bi: Udemy
+• AQT Ninja: Tech Mahindra
+• AQT Samurai: Tech Mahindra
+• Business English Certificate (BEC): Preliminary Level (Cambridge University)
+
+Career Summary
+#24 April 2018 to Present
+RPA Developer at Tech Mahindra
+RPA Developer for Canada Business Unit(CBU), Chevron Canada
+Project Description: Chevron Canada is an indirect, independent subsidiary of Chevron Energy
+Corporation. Developed 21 business workflows in Core Oil and Gas functions, Finance, Human
+Resources, Supply Chain Management, and Land department.
+Key Responsibilities as RPA Developer
+• Responsibilities involved gathering requirements, translate business requirements into
+technical approach solutions and technical design specifications.
+• Collaborate amongst various functional teams, Analysts, and Architects.
+• As a developer took sole responsibility to Design, Develop, Test and deploy the Business
+process workflow.
+• Worked with the Admin Team and Operations Team to execute deployment plans and
+address any production issues.
+• Addressed any break-fix with BOT running in UAT/PRD.
+• Worked in various enhancement and migration activities for the existing workflows.
+• Helped monitoring the BOT running in production on an ongoing basis.
+Key Achievements
+Received appreciation for winning 4 customer awards and therefore, ranking as the Best IT Supplier
+from Chevron.
+Honors and Awards
+AQT Ninja Award, July 2019
+Received award for demonstrated technology commitment to Tech Mahindra's Automation Strategy.
+Pat on Back Award, Tech Mahindra, February 2020
+Received award for taking responsibility in managing a critical customer deliverable.
+AQT Samurai Award, January 2020
+Received award for demonstrated technology proficiency and an unwavering commitment to the
+brand and the organizational vision.
+Acceleration Award, Chevron, February 2020 and June 2020
+Received award for demonstrating true excellence from every aspect as an indomitable team.
+.
+Extra-Curricular Activities
+January 2018 – Present
+Team Member, SENATE Team
+As a member of SENATE Team, I have collaborated with other Team Members in organizing various
+CSR activities, celebrations and events for Chevron-Chennai ODC.
+
+Project Experience: PROJECT# 1: UI Path Automation -Drilling and Completion Benchmark
+• Client: Chevron, Canada
+
+•
+•
+
+Duration: May 2020 till June 2020
+Description: Ui Path robot logs into Well Data Tracker PowerBi web application,
+
+•
+
+Technologies: UI-Path(Web application automaton, Power bi web automation, Excel
+automation, Email automation, Word automation), .Net, Macros, Agile methodology
+Team size: 2
+Role: Developer, designer, tester, analyst.
+Responsibility: I worked as a developer and took the sole responsibility to test and
+deploy the complete workflow. My job included from gathering Information, designing and
+drafting the most optimized workflow and followed by testing and deploying the automated
+flow.
+
+•
+•
+•
+
+export the Well Data Tracker report(Excel Document), then logs into Geologic
+Website and export the Frac database data(Excel Document). Bot logs into
+Geoscout and Accumap Application and export the well data(Excel Document) and
+then it logs into WellView PowerBi Web application and export the wellview
+Report(Excel Document).Transform the exported data into the desired f ormat and
+calculate the remaining columns and paste the data in the Completion Benchmark
+Document.
+
+PROJECT# 2: UI Path Automation -SAP GST Indirect Returns
+• Client: Chevron, Canada
+• Duration: April 2019 till July 2019
+• Description: UI Path Robot launches SAP application and exports upstream and downstream
+GST return data. Exported data is entered in the Return spreadsheet, auto calculated data
+from all the CCN sheets are entered in Month over Month sheet. For the all the CCN sheet,
+sales and CCN screenshots are taken and pasted in the respective CCN sheet. Nil return
+screenshot is pasted in Nil returns sheet. Consolidated Upstream and Downstream
+screenshots are pasted in Consolidated Sheet. Nil returns and Consolidated sheets are
+converted to PDF and emailed along with Upstream and downstream data that doesn’t
+belong to the reporting Month.
+• Technologies: UI-Path(SAP automaton, Excel automation, PDF automation, Email
+automation), .Net, Agile methodology
+• Team size: 2
+• Role: Developer, designer, tester, analyst.
+• Responsibility: I worked as a developer and took the sole responsibility to test and
+deploy the complete workflow. My job included from gathering Information, designing and
+drafting the most optimized workflow and followed by testing and deploying the automated
+flow.
+Personal Details
+• DOB: 28-June-1996
+•
+
+Gender: Female
+
+•
+
+Marital Status: Single
+
+•
+
+Nationality: Indian
+
+•
+
+Language Known: English, Tamil
+
+I hereby solemnly affirm that all the details furnished above are true to the best of my knowledge.
+DATE: 1 st Jan 2021
+
+PLACE: Chennai, India
+
+(Jenolin Jenisha Vedanayagam)
+
+

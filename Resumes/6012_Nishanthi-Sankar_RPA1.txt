@@ -1,0 +1,184 @@
+Nishanthi Sankar
+Chennai | +91 9597195462 | nishanthisankar95@gmail.com
+
+Career Summary
+Collaborative IT Professional with overall experience of 3 years. 2 years of experience
+in Active Directory and Big Data using Hadoop Ecosystem and 1 Year of Experience in
+Robotic Process Automation (RPA). I wish to work in challenging environment
+where we can automate repetitive task with the help of Robotic process Automation
+(RPA).
+
+Professional Qualifications
+
+
+Designed RPA process solutions in accordance with UI Path design
+principles and conventions.
+
+
+
+Implemented End to End Robotic Process Automation (RPA) using
+UiPath.
+
+
+
+Analyzing, documenting, and re-engineering business process in scope
+for Automation and Robotics.
+
+
+
+Experience in structured and pattern-based data extraction using Web
+Data Extraction and Export the data to Excel or database.
+
+
+
+Worked in UiPath for Web scraping and Data manipulation.
+
+
+
+Expertise in Intelligent Capture of Pdf Data and UI steps for business and
+IT process.
+
+
+
+Reads PDF text with OCR- Default Microsoft | Tesseract.
+
+
+
+Experienced in Document Understanding UiPath along with RPA.
+
+
+
+Knowledge in RE-FRAMEWORK.
+
+
+
+Strong knowledge in fundamentals and OOPS concepts of Python.
+
+
+
+Actively involved in self-development & knowledge sharing.
+
+Academic
+Qualifications
+
+B.Tech Information and Communication Technology [2013-2017] with
+
+Graduate
+
+6.53 CGPA – Sastra University, Thanjavur, Tamil Nadu
+12th
+
+HSC [2011-2013] with 95% - Bharathiya Vidhya Mandir, Pollachi,
+Tamil Nadu
+
+10th
+
+SSC [2010] with 86% - St.Joseph of Cluny, Neyveli, Tamil Nadu
+
+Professional Experience
+Cognizant Technology Solutions | Jan 2018 till date
+Project Name: Pearson Role: RPA Developer
+PEARSON (Client location - United Kingdom) is a British-owned education
+publishing and assessment service to schools and corporations, as well as for
+students directly.
+RPA Developer: Worked from December 2019 till date for Cognizant Technology
+solutions, Chennai for PEARSON.
+
+Responsibilities:
+
+
+Designed and developed a Bot in which the Robot will gather
+Employee's on-boarding information from Client’s excel sheet and
+automatically navigate to the internal client's web portal, where the Bot
+will fill all the required fields and provision the account without human
+intervention.
+
+
+
+Automating the Excel Operations like copying the data from one sheet
+to another sheets, invoking the macros present inside the Excel and
+filtering the date based on the requirements.
+
+
+
+Creating, publishing the processes, and deploying BOTS using
+Orchestrator.
+
+
+
+Designed bot using Optical Character Recognition (OCR) which loops
+through scanned PDF files, scrapes the text, and export it to a text file.
+
+
+
+Developed and tested the processes across every Positive and Negative
+Scenarios as per project requirements in UiPath with proper exception
+handling.
+
+
+
+Experienced in analyzing and been a part of requirement gathering team
+in facilitating improvement in applications, planning, and building
+effective environments.
+
+RPA Tool: UiPath (Document Understanding)
+
+
+Experience of PDF Automation - Full Text | Field Levels - Document
+Understanding - Taxonomy, extract Regex, form, and Machine learning
+extractors.
+
+
+
+Automated 6 Report Generation process through UiPath Document
+Understanding.
+
+
+
+Review & understanding the Business requirements through Documents
+and participate in requirement gathering and demo calls.
+
+
+
+Presented Generated Reports to Clients.
+
+Senior System Engineer L2: Worked from 11th January 2018 until October,2019 in
+Cognizant Technology solutions, Chennai for PEARSON.
+
+
+ITIL process for handling tickets and to provide first level of
+troubleshooting and resolution of incidents within SLA.
+
+
+
+Involved in Installation and configuration of Hadoop HDFS, Spark, Hive
+and Sqoop. Sqooping data into HDFS and Hive.
+
+
+
+Load and transform large data sets of structured data.
+
+
+
+Involved in creating Hive tables, loading with data and writing hive
+queries as per the requirements.
+
+Core Competencies/Technical
+Expertise
+Languages
+
+Python, SQL
+
+Eco System
+
+UIPATH, Document Understanding, RE-Framework
+
+Operating Systems
+
+Windows, Linux
+
+Environments
+
+MySQL, Web-applications, MS Office
+
+

@@ -1,0 +1,317 @@
+Kaushik
+Kumar
+RPA Developer
+
+Contact
+Address
+
+RPA Developer with over 4 years of successful experience in Uipath.
+Recognized consistently for performance excellence and contributions
+to success in Automating Process.
+
+Work History
+2019-10 -
+
+RPA Developer
+
+Current
+
+Cognizant Technology Solutions, Chennai, Tamilnadu
+Collaborated with project managers to select
+
+Madurai, TN, 625009
+
+ambitious, but realistic coding milestones on
+
+Phone
+
+pre-release software project development.
+
+965 550 5571
+
+Prepared test plans and test cases based on
+
+E-mail
+
+requirement documents for process.
+
+kaushikkumarsg@outlook.co
+
+Carefully documented technical workflows and
+
+m
+
+knowledge in private wiki for education of newly
+
+LinkedIn
+
+hired employees.
+Planned and developed interfaces using Uipath that
+
+www.linkedin.com/in
+
+simplified overall management and offered
+
+/kaushik-ramuk
+
+ease-of-use.
+
+WWW
+
+Revised, modularized and updated old code bases
+
+https://zety.com/profile
+
+to modern development standards, reducing
+
+/kaushik-kumar/577
+
+operating costs and improving functionality.
+Performed regression and system-level testing to
+
+Skills
+
+verify automation quality and function prior to
+release.
+
+Uipath
+VBA
+
+2017-02 -
+
+Software Engineer
+
+2019-10
+
+Tech Mahindra, Chennai, Tamilnadu
+Reviewed project specifications and designed
+
+Python
+
+technology solutions that met or exceeded
+performance expectations.
+
+Javascript
+
+Discussed project progress with customers, collected
+feedback on different stages and directly addressed
+
+ReactJS
+.Net Framework
+
+concerns.
+Revised, modularized and updated old code bases
+to modern development standards, reducing
+operating costs and improving functionality.
+
+Software
+Microsoft Office Packages
+
+Introduced agile methodologies and effective
+development best practices to division to enhance
+product development.
+
+Service Now
+
+Education
+Languages
+
+2019-08 -
+
+MBA: Management Information Systems
+
+English
+
+Current
+
+Annamalai University - Chennai
+
+Tamil
+
+2011-06 -
+
+Bachelor of Technology: Information
+Technology
+
+2015-06
+
+K.L.N College Of Engineering - Sivagangai
+
+Certifications
+2017-12
+UiPath: Level 1- Developer
+Foundation Training
+2018-02
+UiPath: Level 2- Orchestrator
+training
+
+Projects
+Project 1(Subpoena):
+Client : Alliance Card Data Service
+Role : RPA Developer.
+Duration : 6 months.
+Applications Involved: PDF,Systemware Web
+
+2019-10
+
+Application, Excel, Email, Sharepoint, NICE Web
+
+UiPath: Advanced
+
+Application, Database, Docuware Web Application.
+
+Developer Certification
+2018-10
+UiPath: SAP Automation
+Training
+
+Description:
+Automate the process of pulling up documentation
+associated with Subpoena requests available in
+Subpoena Sharepoint
+And uploading them to into Subpoena Sharedrive .
+Annual Transaction Volume 150 to 200 requests mont
+Project 2(Brand Partner Monitoring):
+Client : Alliance Card Data Service
+Role : RPA Developer.
+Duration : 6 months.
+Applications Involved: PDF,Appian Web Application,
+Excel, Email, Sharepoint,
+Description:
+Automate the monitoring process of Promotion plan
+information of each standards by using various
+applications
+For each Brand , the document present in the
+business tool in any format PDF / Word and compare
+the Promotional plans with Master Promo plan sheet
+.
+The Financials information present in document is
+verified with business tool
+
+Once the validation is performed , the
+corresponding question in Monitoring tracker file
+updated as ‘Yes' or ‘No' or ‘N/A' based on business
+rules.
+Take the screenshots of the business tool Promo Plan
+Master sheet is captured and save it in the share
+point . Also , the respective document is saved in
+share point as well
+Project 3(Pipeline and Facilities Data Process):
+Client : Chevron Oil & Gas
+Role : RPA Developer.
+Duration : 6 months.
+Applications Involved: PDF,Web Application, Excel,
+Email
+Description:
+Process Starts by Getting an Email from the OneStop
+Organization or Facilities (Govt.Authorized Oil & gas
+Partner) which contains Website Link, Bot reads the
+mail.
+Bot follows two different workflows for Facility and
+Pipeline which is Developed in RE (Robotic
+Enterprise) Framework in Uipath .
+Facility Workflow works to download two PDF
+Documents from the provided Website Link and
+necessary Data are extracted from the Documents.
+Pipeline Workflow works by logging into the Website
+through credentials, bot will extract some data from
+the site and download PDF Documents.
+Pipeline Workflow continues to extract data from
+downloaded PDF Documents
+Bot populates the extracted data into
+Corresponding Pipeline or Facility Master Excel
+sheet.
+Bot creates folder of Current Date and Time, thus
+moves all the document in a hierarchy.
+At last, Bot sends the Business End User an Email
+containing the Website Link, Path of the Document
+and status of overall process.
+Project 4(Account Closure):
+Client : Alliance Card Data Service
+Role : RPA Developer.
+Duration : 6 months.
+
+Applications Involved: Web Application, Excel,
+Email.
+Description:
+We will be getting multiple Account information from
+Input Excel Spreadsheet.
+From the Input Sheet, bot will extract the Account ID
+from the sheet.
+Extracted data is used as the input in web
+Application to get information about the account.
+In Web application bot will check the Status Code of
+the Account, each and every Status Code
+refers to the Closure Status of the Account. Bot
+identifies the Specific Status Code where the
+Account need to be Closed and Bot Closes the
+Account
+Bot Logs out of the Application and sends a Bot
+Status Report to the Business User and Support
+Team.
+Project 5(Document Control(DC)):
+Client : Chevron Oil & Gas
+Role : RPA Developer.
+Duration : 6 months.
+Applications Involved: Web Application, Excel,
+Email.
+Description:
+Bot reaches Sharepoint site Folder, where it contains
+compressed files.
+All the compressed files are downloaded by bot.
+Bot unzips all the compressed file, which contains
+excel and PDF File.
+The name of the process is available inside the
+document, bot extracts the name from both PDF
+and Excel Documents.
+With the Extracted data, bot searches eB (Chevron
+Internal Tool) web tool, result of the search the
+tool shows status of file (processed or unprocessed).
+If the File is not processed, bot upload the whole
+compressed file into the tool.
+At the end, bot sends a status Email to the business
+End user.
+Project 6(SemCams Product Impact Notification (PIN)):
+Client : Chevron Oil & Gas
+
+Role : RPA Developer.
+Duration : 6 months.
+Applications Involved: Excel,Email.
+Description:
+We will be getting several formats of mail, where bot
+will read mail body.
+From the mail body, bot will filter the mail type by
+the vendor and extracts the data from the body
+of the mail.
+Extracted data is populated to the corresponding
+vendor master excel sheet by bot.
+If Bot recognize an update mail on top of existing
+mail, it extracts update mail data and fill data as
+a separate column in vendor excel sheet.
+If bot receives new unexpected format mail which is
+not supported by the mail formats in the
+workflow, bot sends notification email of failure to
+the business user.
+Project 7(SAP GST Indirect Returns):
+Client : Chevron Oil & Gas
+Role : RPA Developer.
+Duration : 6 months.
+Applications Involved: SAP, Excel, PDF, Email.
+Description:
+Bot launches SAP application and exports upstream
+and downstream GST return data.
+Exported data is entered in the Return spreadsheet,
+auto calculated data from all the CCN sheets are
+entered in Month over Month sheet.
+For the all the CCN sheet, sales and CCN
+screenshots are taken and pasted in the respective
+CCN sheet. Nil return screenshot is pasted in Nil
+returns sheet.
+Consolidated Upstream and Downstream
+screenshots are pasted in Consolidated Sheet. Nil
+returns and Consolidated sheets are converted to
+PDF and emailed along with Upstream and
+downstream data that doesn't belong to the
+reporting Month.
+
+

@@ -1,0 +1,128 @@
+Shreyansh Hosalkar
+Add: B-302, Nakshatra bldg., Suyog nagar, Opp. Mount Carmel School,Vasai West,401202
+Email: shreyansh.hosalkar@gmail.com
+Mob: 8097135970
+
+CAREER OBJECTIVE:
+Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution
+to the success of the company.
+
+EXPERIENCE SUMMARY:
+Ø 2.2 years of extensive experience of RPA and related technologies like Automation Anywhere 11.3, Microsoft
+Power Automate,Softomotive’s Process Robot & WinAutomation and ASG ZENITH
+Ø Has good experience on Python,VBScript, JavaScript and SQL database
+Ø Has good knowledge of Automation anywhere workbench, Control Room, IQ Bot, Audit and error Logging
+techniques.
+Ø Has good knowledge of Softomotive Process Robot Studio, Control Room, Credential manager and Audit
+logs.
+Ø Has completed few successful POC as per the client requirements.
+
+WORK EXPERIENCE:
+RPA Developer
+
+Client : TATA CAPITAL LTD
+
+Tool – Automation Anywhere 11.3
+Role – Identifying the scope for RPA, Development of RPA processes and providing support and maintenance for
+existing processes and resolve the project issues.
+RPA Process List:
+• Loan termination- Developed an automation process in Automation Anywhere tool for terminating various types
+of loans. The SFDC cases report is pulled from the SFDC portal every day. Another report i.e. Collection Dump
+report is downloaded from TCL Reporting portal. This report is used to check the active loan contracts available.
+After removing the closed contracts, the maker process is carried out for all the Loan Contract number present in
+the case ID report. The loan termination process takes place for maturity closure and Foreclosure. This process
+has around 10 % of human intervention (for entering CAPTCHA in SFDC Portal) and has reduced the efforts of
+business user by almost 90 %.
+• Dummy Clearance: Developed an automation process in Automation Anywhere tool to extract the data from
+SAP and generate excel based MIS report. Business team generate list of Dummy GL accounts from SAP and
+convert the output into Excel based MIS based on regions, Branch and Amount. Once the MIS report is
+generated, the report is segregated as per the condition defined. This process has almost zero manual
+intervention and had reduced the efforts of user by almost 92%.
+• Excess payment refund – Developed an automation process in Automation Anywhere tool to check the excess
+amount which customer paid and then user process to refund that excess amount back to customer. This
+process has zero human intervention and had reduced the efforts of user by almost 95%.
+RPA Developer
+
+Client: HDFC LTD
+
+Tool – Softomotive Process Robot v2019 and Microsoft Power Automate
+Role- Identify, prioritize, and scope RPA opportunities with stakeholders across the organization's enterprise and
+oversee project delivery across the life cycle including providing guidance to delivery teams and resolving project
+issues as escalated.
+RPA Process List:
+• RERA (Extracting project details): Developed an automation process in Softomotive process robot tool on Real
+Estate Government portal to extract the developers and buildings details from website and submit extracted
+data into database in the form of JSON. The process runs throughout the day and has no manual intervention
+and had reduced the user efforts by almost 95%.
+
+•
+
+•
+
+•
+
+•
+
+•
+
+CERSAI: Developed an automation in Softomotive process robot tool to enter the loan details in portal of an
+cersai. It was primarily created to check frauds in lending against equitable mortgages, in which people would
+take multiple loans on the same asset from different banks. This process runs once a week and has negligible
+manual intervention and had reduced the efforts of business user by almost 92%.
+Bank Statements: Developed an automation process in Softomotive process robot tool to download the Bank
+statements from banks website, perform some data massaging operation on the statements and store the
+statements into the database. This process runs once in a day and has no manual intervention and has reduced
+the efforts of user by 98%.
+GST: Developed an automation process in Softomotive process robot to extract the data from GST website and
+store the extracted data into the database. This process run once in a day and has zero manual intervention and
+has reduced the efforts of business user by 100%.
+CMS Collection: Developed an automation process in Softomotive Process robot tool to download the Cheque
+statements (Cheque Deposits details) from the mail server, perform few data massaging operation and upload
+the statements into the database. This process run throughout the day with zero manual intervention and has
+reduced 100 % efforts from business user.
+GST return Bulk Emails: Developed an automation process in Softomotive Process robot tool to send the mail to
+1000’s of user at once with dynamic data. This process run once in a week and has zero manual intervention and
+had reduced the efforts of user by almost 98%.
+
+EDUCATION:
+MCA
+N.M.I.T.D, Mumbai
+
+Jan 2019
+CGPA: 7.54
+
+BSC-IT
+M.L.Dahanukar College, Mumbai
+
+June 2015
+Marks: 55%
+
+TOOLS & TECHNOLOGIES:
+Technology: RPA
+Languages: JavaScript,VBScript,Python.
+
+Databases: SQL Server, MYSQL
+Tools: Softomotive(ProcessRobot,WinAutomation),
+Automation Anywhere, IQ Bot, Power Automate.
+
+CERTIFICATIONS
+•
+•
+•
+
+Automation Anywhere Advanced
+Automation anywhere Master
+Softomotive Diploma version 2019
+
+SOFT SKILLS & INTERESTS:
+•
+•
+•
+•
+
+Optimistic mind set looking for an opportunity in every problem.
+Flexible team player with efficient communication skills who prospers in a fast paced environment.
+Proven problem solving /troubleshooting skills.
+Good interpersonal and organization skills.
+
+

@@ -1,0 +1,109 @@
+Shreya Gupta
+RPA Developer
+
+Noida
+7726806846
+sgshreya95@gmail.com | https://www.linkedin.com/in/shreya-gupta-30053b125
+
+Summary
+An ambitious RPA Developer with self-acquired knowledge in the relevant ﬁeld, keen to further explore the
+developments taking place in the field of Robotic Process Automation.
+Looking forward for a challenging position with an esteemed organization that provides opportunities to apply my
+knowledge and skill set to contribute towards the growth of the organization and my professional development.
+
+Core Competencies
+Adaptability : Look for new ways of handling multiple tasks and tolerating time pressure
+Problem-solving : able to develop solutions to situations that threaten to escalate into something potentially
+serious.
+Communication : able to help colleagues or stakeholders understand complex information and ideas
+Team work : helping other members of the team to achieve a common goal quickly and effectively
+Time-management : When reviewing my daily and weekly schedule, I allot ample time for the important and
+balance it with the urgent
+
+Work experience
+Wipro
+
+2017 - Present
+
+Analyst
+Over all 3 years of IT experience with 2.5 Years Experience in Robotic Process Automation (RPA)
+Well versed with various stages of SDLC and Agile Methodology.
+Ability to understand business requirement and solution design document as input for development
+Collaborate with business and technical SMEs to define automation, business rules and exceptions.
+Attend status calls with client and getting inputs from them.
+Active involvement in requirement change and UAT calls with customer
+Ability to guide and work with other a team of developers and testers to implement automation solution.
+Prepared RPA documents including PDD, SDD and TDD
+Provide technical assistance by responding to inquiries and questions.
+Strong interpersonal skills required to interact with clients, management and peers effectively
+
+Skills
+RPA Tools: UiPath Studio(2019.10.3), UiPath Orchestrator(2019.10.16), UiPath Robot (2019.10.3)
+IDE : Visual Studio 2019, RE Framework
+Database: SQL Server, IBM DB2
+Languages : C#, VB.Net
+Operating Systems: Windows 10
+Tools: MS Office (MS Word, MS Excel)
+
+Projects
+Insurance Bill Generation
+Developer Tool : UiPath, RE Framework, Visual Studio, Excel, Orchestrator, Outlook, PDF
+Duration : July 2020 - October 2020
+
+Payroll Reporting
+Developer Tool : UiPath, RE Framework, Visual Studio, Excel, Orchestrator, Outlook, PDF
+Duration : December 2019 - March 2020
+Invoice Management
+Developer Tool : UiPath, Visual Studio, Excel, Orchestrator, Outlook, PDF
+Duration : September 2019 - November 2019
+UPoint Enrollment Flows
+Developer Tool : UiPath, RE Framework, SQL Server, Visual Studio, Excel, Outlook
+Duration : December 2018 - July 2019
+Helpdesk Ticket Creation
+Developer Tool : UiPath, Excel, Outlook
+Duration : June 2018 - October 2018
+Credit Card Processing
+Developer Tool : UiPath, Excel, Outlook
+Duration : April 2018 - May 2018
+Responsibilities :
+Implemented end to end Robotics Process Automation (RPA) using UiPath
+Requirement gathering of AS-IS process.
+Good hands-on experience in different types of Robotic process automation such as Web, Email, Excel and
+PDF using UiPath .
+Design and development of the solution using enhanced RE framework integrated with SQL Server.
+Hands on experience in creating custom activities using C# in Visual Studio
+Created reusable components using VB.net in UiPath
+Hands on experience in various techniques like screen scraping, data scraping, recording for automating
+processes
+Deployed the process in Orchestrator and scheduled their execution.
+Used Data tables and Queues as input to collect information from orchestrator to perform additional tasks.
+
+Education
+JECRC University
+B.Tech, Computer Science and Engineering
+Jaipur, Rajasthan
+Graduated July 2017
+8.77 CGPA
+Kids Corner School
+Intermediate School
+Firozabad, Uttar Pradesh
+Graduated March 2013
+CBSE Board - 80%
+
+St. John's School
+High School
+Firozabad, Uttar Pradesh
+Graduated March 2011
+CBSE Board - 9.2 CGPA
+
+Certifications
+Foundation Training (UiPath Level 1)
+Certification Body : Diploma of Completion Foundation 2018.3 Training
+Year : 2019
+Orchestrator Training (UiPath Level 2)
+Certification Body : Diploma of Completion Orchestrator 2018.3 Training
+Year : 2019
+
+Created with
+
+

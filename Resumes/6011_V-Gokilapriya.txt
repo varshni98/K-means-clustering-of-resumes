@@ -1,0 +1,229 @@
+Gokilapriya V
+Plot No. 43 F3 First Floor
+New Kubera Nagar 4th Street,
+Madipakkam, Chennai- 600091
+Kanchipuram District
+Mob: 9962900976
+Email: gokivenkatachalam@gmail.com
+Objective:
+To work in a challenging environment that will allow me to utilize my skills for the growth of the
+working field and my career
+Work Experience:
+Project Engineer (Robotic Process Automation) in National Institute of Electronics and Information
+Technology (NIELIT) Chennai, Ministry of Electronics & Information Technology (MeitY),
+Government of India from September 10th 2020 to till date.
+Project Associate (Electronics) in National Institute of Electronics and Information Technology
+(NIELIT) Chennai, Ministry of Electronics & Information Technology (MeitY), Government of
+India from September 9th 2019 to September 8th 2020.
+Academic Profile:
+Post Graduate:
+M.S. (By Research), Jan 2016- Sep 2019, Department of Electronics Engineering, Madras Institute
+of Technology (MIT Campus) of Anna University, Chromepet, Chennai, Tamil Nadu. Course Work
+CGPA- 9.1/10
+Under Graduate:
+B.E. (ECE), Aug 2011- May 2015, Government College of Engineering, Tirunelveli, Tamil Nadu.
+CGPA-7.62/10
+HSC:
+XII, June 2010- May 2011, SRV Hi-Tech Girls Higher Secondary School, Rasipuram, Namakkal
+District, Tamil Nadu. Marks -1150/1200 (95.83%)
+SSLC:
+X, June 2008-May 2009, St. Sebastiar Matriculation School, Pallivasal, Pudukkottai District, Tamil
+Nadu. Marks- 413/500 (82.6%)
+Personal Profile:
+Name:
+Age:
+Sex:
+Date of Birth
+Marital Status:
+Languages known:
+
+Gokilapriya V
+27
+Female
+19.07.1993
+Married
+Tamil and English
+
+Area of Interest:
+
+
+
+
+
+
+
+Wireless Sensor Networks
+Internet of Things
+Wireless Communication
+Embedded System
+Robotic Process Automation
+6LoWPAN
+
+Programming Skills:
+
+
+
+
+
+C
+C++
+Python
+Embedded C
+
+Operating Systems:
+
+
+
+Windows 2007/08/10
+Linux
+
+Hardware Boards:
+
+
+
+
+
+
+
+NodeMCU
+Arduino Boards
+Raspberry Pi
+Tiva C Board
+Open Mote
+Thunder Board
+
+
+
+
+
+
+
+
+Code Composer Studio
+Arduino IDE
+Pycharm
+Jupyter Notebook
+Proteus Simulator
+Cooja Simulator of Contiki OS
+
+IDE:
+
+Cloud Services:
+
+
+
+Ubidots
+Telegram
+
+Robotic Platform:
+ UiPath
+Academic Projects
+UG project on Automatic License Plate Recognition:
+
+To design and implement algorithms to localize, segment and recognize the characters of
+the Indian license plates without human intervention. The objective is to develop a method
+that is less time consuming and more efficient. Nowadays, this project helps in the
+development of smart applications such as Automatic Toll Collection, Parking systems and
+many more.
+
+M.S. (By Research) on Energy Efficient Topology Discovery Mechanism for 6LoWPAN Network
+To analyze the impact of IPv6 Routing Protocol for Low –Power and Lossy Networks
+(RPL) in extending the lifetime of IPv6 over Low Power Wireless Personal Area Networks
+(6LoWPAN) based applications. The analysis of RPL protocol is carried out for different
+topologies namely linear, ellipse, random, manual and for varied network sizes. The
+performance metrics evaluated are Packet Delivery Ratio (PDR), Round Trip Time (RTT)
+and energy consumption in the network. The Cooja Simulator of Contiki Operating System
+was used for evaluation.
+Publications related to PG Project:
+
+
+
+
+Gokilapriya V & Bhuvaneswari P T V, "Energy Efficient Topology Selection for
+6LoWPAN Based Applications", International Journal of Data Structures, 2020; Vol.
+6, Issue 1, pp. 18–30.
+V. Gokilapriya and P.T.V. Bhuvaneswari, "Energy Efficient Topology Selection for
+6LoWPAN Based Applications", International Conference on Recent Trends in
+Electronics and Computer Science (ICRTECS 2019) March 18-19 2019, National Institute
+of Technology Silchar, Assam, India.
+
+
+
+V. Gokilapriya, P.T.V. Bhuvaneswari and A. Saraswathi Priyadharshini, “Energy and
+Power Analysis of RPL Under Topology Variations”, International Journal of
+Advanced Research Trends in Engineering and Technology (IJARTET), Vol. 5, Issue
+4, April 2018, pp. 43-50. [UGC Listed]
+
+
+
+V. Gokilapriya and P.T.V. Bhuvaneswari, “Analysis of RPL Routing Protocol on
+Topology Control Mechanism”, 2017 IEEE 4th International Conference on Signal
+Processing, Communications and Networking (ICSCN -2017), March 16-18 2017,
+Chennai, India. [Received Best paper award]
+
+
+
+V. Gokilapriya and P.T.V. Bhuvaneswari, “Design and Development of SoC Based
+Residential Water Meter Monitoring System”, 2017 IEEE International Conference on
+Wireless Communications, Signal Processing and Networking (WiSPNET 2017), March
+22-24 2017, Chennai, India, pp. 2163-2166.
+
+Scholastic Achievements:
+
+
+Best Paper Award for the conference paper titled “Analysis of RPL Routing Protocol
+on Topology Control Mechanism” held in Madras Institute of Technology, Chennai
+during March 16-18 2017.
+
+
+
+First Place in Workshop cum Competition on Internet of Things conducted by Indian
+Institute of Technology (BHU) Varanasi in association with Innovians Technologies.
+
+
+
+Second Place in State level Essay writing competition conducted during VII standard
+
+Co-Curricular Activities:
+
+
+Attended Internet of Things Training under Future Skills PRIME Train the Trainer
+Program organized by CDAC Bangalore.
+
+
+
+Attended two days workshop on Fundamentals and Research Challenges of 6LoWPAN
+
+organized by Department of Electronics Engineering, MIT Campus, Anna University.
+
+
+Attended two days workshop on Hands on Training in Embedded C Programming of
+PIC Microcontrollers organized by Department of Electronics Engineering, MIT
+Campus, Anna University.
+
+
+
+Attended two days workshop on Internet of Things (IoT) organized by Department of
+Electronics Engineering, MIT Campus, Anna University.
+
+
+
+Attended workshop on Mobile phone DTMF controlled robot organized by Robosapiens
+IIT-Delhi in Government College of Engineering, Tirunelveli
+
+
+
+Attended Ethical Hacking workshop in Coimbatore Institute of Technology, Coimbatore
+
+
+
+Underwent Implant Training in All India Radio (AIR), Tirunelveli
+
+Declaration:
+I hereby declare that all the details furnished above are true to the best of my knowledge.
+Yours faithfully,
+(Gokilapriya V)
+Date: 23.10.2020
+Place: Chennai
+
+
