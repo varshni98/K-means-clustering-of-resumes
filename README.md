@@ -19,3 +19,6 @@ The input files are resumes with extension (.txt)
 Output 
 
 Resumes clustered based on various profiles
+
+
+https://medium.com/@varshnibabu/clustering-of-resumes-into-various-job-profiles-using-k-means-and-tf-idf-6fe6d4abd5a8
